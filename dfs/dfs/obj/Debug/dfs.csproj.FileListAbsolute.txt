@@ -1,0 +1,6 @@
+C:\Users\п\Desktop\программирование 2019 весна\C#\графы\dfs\dfs\bin\Debug\dfs.exe.config
+C:\Users\п\Desktop\программирование 2019 весна\C#\графы\dfs\dfs\bin\Debug\dfs.exe
+C:\Users\п\Desktop\программирование 2019 весна\C#\графы\dfs\dfs\bin\Debug\dfs.pdb
+C:\Users\п\Desktop\программирование 2019 весна\C#\графы\dfs\dfs\obj\Debug\dfs.csprojResolveAssemblyReference.cache
+C:\Users\п\Desktop\программирование 2019 весна\C#\графы\dfs\dfs\obj\Debug\dfs.exe
+C:\Users\п\Desktop\программирование 2019 весна\C#\графы\dfs\dfs\obj\Debug\dfs.pdb

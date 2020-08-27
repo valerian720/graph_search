@@ -1,0 +1,6 @@
+C:\Users\п\Desktop\программирование 2019 весна\C#\графы\bfs\bfs\bin\Debug\bfs.exe.config
+C:\Users\п\Desktop\программирование 2019 весна\C#\графы\bfs\bfs\bin\Debug\bfs.exe
+C:\Users\п\Desktop\программирование 2019 весна\C#\графы\bfs\bfs\bin\Debug\bfs.pdb
+C:\Users\п\Desktop\программирование 2019 весна\C#\графы\bfs\bfs\obj\Debug\bfs.csprojResolveAssemblyReference.cache
+C:\Users\п\Desktop\программирование 2019 весна\C#\графы\bfs\bfs\obj\Debug\bfs.exe
+C:\Users\п\Desktop\программирование 2019 весна\C#\графы\bfs\bfs\obj\Debug\bfs.pdb
